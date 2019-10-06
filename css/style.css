@@ -1,0 +1,14 @@
+.box{
+    min-height: 100px;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+}
+.black{
+    background-color:#9966ff;
+}
+.aqua{
+     border:3px solid red;
+}
+.pink{
+    border:3px solid pink;
+}
